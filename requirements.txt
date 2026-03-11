@@ -1,6 +1,6 @@
 streamlit==1.29.0
-pandas
-numpy
-scikit-learn
-matplotlib
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
 altair==4.2.2
+ortools==9.10.4067
